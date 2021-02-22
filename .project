@@ -20,4 +20,11 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.buildship.core.gradleprojectnature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>Screenshot 2021-02-22 at 2.38.41 PM.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Screenshot%202021-02-22%20at%202.38.41%20PM.png</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>
